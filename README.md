@@ -1,4 +1,6 @@
 # LiberateZim2D
 2D side scrolling shooter game releases
 
-[Screenshot](2.png)
+![screenshot](https://github.com/zimspy007/LiberateZim2D/blob/master/2.png)
+
+![screenshot](https://github.com/zimspy007/LiberateZim2D/blob/master/1.png)
